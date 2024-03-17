@@ -18,6 +18,7 @@
    <ul >
       <li>Header</li>
       <li>SideBar</li>
+      <li> Filter :In this we filter the product according to catogry ,we ca done by filter feature of js ad chage the product usinng useeffect and usestate</li>
       <li>Search Bar:I use usestate to store user search and handle function to modify the product according to search and useeffect for render virtual dom if ay change happen due to the property of reconcellatio process</li>
       <li>Cart</li>
       <li>login</li>
